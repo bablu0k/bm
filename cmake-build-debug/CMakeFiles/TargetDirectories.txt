@@ -1,0 +1,3 @@
+/home/bablu/CLionProjects/virtualmachine/cmake-build-debug/CMakeFiles/virtualmachine.dir
+/home/bablu/CLionProjects/virtualmachine/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/bablu/CLionProjects/virtualmachine/cmake-build-debug/CMakeFiles/rebuild_cache.dir
